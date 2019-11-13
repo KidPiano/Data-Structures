@@ -19,5 +19,6 @@
 - [Incidence Matrix]()
 - [Treap]()
 - [Rope]()
+- [LRU Cache]()
 
 Don't find what you're looking for? Click [here]() for a more comprehensive list.

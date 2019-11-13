@@ -10,6 +10,7 @@
 - [Doubly Linked List]()
 - [Binary Tree]()
 - [Binary Search Tree]()
+- [Threaded Binary Tree]()
 - [Self Balancing Tree]()
 - [Trie]()
 - [Heap (Priority Queue)]()
